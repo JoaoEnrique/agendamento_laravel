@@ -1,3 +1,12 @@
+<h1>Create</h1>
+
+![image](https://user-images.githubusercontent.com/87030375/235314305-df9d3bf8-a9b1-42b9-92cb-f18f8038fd1b.png)
+
+<h1>Read</h1>
+
+![image](https://user-images.githubusercontent.com/87030375/235314323-f96fc277-4eb9-4652-927b-ca8c68a7615f.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
