@@ -6,6 +6,14 @@
 
 ![image](https://user-images.githubusercontent.com/87030375/235314323-f96fc277-4eb9-4652-927b-ca8c68a7615f.png)
 
+<h1>Update</h1>
+
+![image](https://github.com/JoaoEnrique/agendamento_laravel/assets/87030375/4eb143be-94d5-4af1-ab70-6014b264ade3)
+
+<h1>Delete</h1>
+
+![image](https://github.com/JoaoEnrique/agendamento_laravel/assets/87030375/68d2ce1a-01b4-4a3f-a6e0-697ecd9f3234)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
